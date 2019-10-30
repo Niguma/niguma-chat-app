@@ -1,2 +1,2 @@
 # niguma-chat-app
-Niguma's Web Chat App - PHP Laravel
+Niguma's Web Chat App - PHP
