@@ -24,13 +24,19 @@ include("include/connection.php");
 
         $check = mysqli_num_rows($run_email);
 
-        if($check==1){
+        if($check == 1){
 
             echo"<script>alert('This email is already in use, please try again!')</script>";
             echo"<script>window.open('signup.php', '_self')</script>";
             exit();
-
         }
+        
+        if($rand == 1)
+            $profile_pic = "images/1.jpg";
+        elseif($rand == )
+            $profile_pic = "images/2.jpg";
+
+        $insert = "insert into users (user)";
 
     }
 
