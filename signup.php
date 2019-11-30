@@ -302,7 +302,7 @@
             <div class="form-group">
                 <button type="submit" class="btn btn-primary btn-block btn-lg" name="sign_up">Sign Up</button>
             </div>
-            <!-- <?php //include("signup_user.php"); ?> -->
+            <?php include("signup_user.php"); ?>
         </form>
         <div class="text-center small" style="color: #ffffff;">Already have an account? <a href="signin.php">Sign in here</a></div>
     </div>

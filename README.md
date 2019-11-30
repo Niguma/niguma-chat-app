@@ -11,6 +11,12 @@ Niguma's Web Chat App - PHP
 
 \\    if($check==1){
 
-        ***and there is space missing before/after eqiation marks
+        ***and there is space missing before/after equation marks
 
 !!!!!! NOTE = i corrected it, coz i was pissed off!!!
+
+?????? read comment Q? in line 4
+
+# connection.php
+
+???????I refractured to a more complex one. Maybe i             should learn that shorthand form of creating a                 connection??????
